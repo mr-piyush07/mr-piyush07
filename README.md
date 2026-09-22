@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="./assets/piyush-profile-intro.gif" width="100%" alt="Piyush Kushwah Intro">
+<img src="./assets/piyush-profile-intro.mp4" width="100%" alt="Piyush Kushwah Intro">
 
 </div>
 
